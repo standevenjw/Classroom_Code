@@ -1,0 +1,11 @@
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\HW8\SlotMachineSolution\Slot Machine Project\bin\Debug\SlotMachineProject.exe
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\HW8\SlotMachineSolution\Slot Machine Project\bin\Debug\SlotMachineProject.pdb
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\HW8\SlotMachineSolution\Slot Machine Project\bin\Debug\SlotMachineProject.xml
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\HW8\SlotMachineSolution\Slot Machine Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\HW8\SlotMachineSolution\Slot Machine Project\obj\x86\Debug\SlotMachineProject.MainForm.resources
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\HW8\SlotMachineSolution\Slot Machine Project\obj\x86\Debug\SlotMachineProject.Resources.resources
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\HW8\SlotMachineSolution\Slot Machine Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\HW8\SlotMachineSolution\Slot Machine Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\HW8\SlotMachineSolution\Slot Machine Project\obj\x86\Debug\SlotMachineProject.exe
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\HW8\SlotMachineSolution\Slot Machine Project\obj\x86\Debug\SlotMachineProject.xml
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\HW8\SlotMachineSolution\Slot Machine Project\obj\x86\Debug\SlotMachineProject.pdb

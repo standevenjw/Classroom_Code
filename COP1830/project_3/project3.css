@@ -1,0 +1,17 @@
+/*Filename: project3.css
+ *Authored by: James Standeven
+ *Date: September 19, 2012*/
+ 
+ /*Body*/
+ body {margin-top:120px; background-color:#ffffaa; background-image:url('http://www.gibsonr.com/classes/images/ircclogo.gif'); background-repeat:repeat-x; background-attachment:fixed;}
+ 
+ /*Headers*/
+ h1, h2, h4 {text-align:center;}
+ h3, h5, h6 {text-align:left;}
+ 
+ /*Anchors*/
+ a {text-decoration:overline;}
+ a:link {color:#00ff00;}
+ a:visited {color:#ff0000;}
+ a:hover {color:#0000ff; font-weight:bold;}
+ a:active {color:#0000ff;}

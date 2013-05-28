@@ -1,0 +1,20 @@
+﻿Build started 04/10/2012 11:43:29 PM.
+     1>Project "C:\Users\JamesInternet\JAMES_IRSC_FALL_2012\COP2334\HW_04\LinkedList\LinkedList\LinkedList.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\LinkedList.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\LinkedList.unsuccessfulbuild".
+         Touching "Debug\LinkedList.lastbuildstate".
+     1>Done Building Project "C:\Users\JamesInternet\JAMES_IRSC_FALL_2012\COP2334\HW_04\LinkedList\LinkedList\LinkedList.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.15

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='en' lang='en'>
+	<head>
+	<!--
+		Filename: project6.htm
+		Authored by: James Standeven
+		Date: November 10, 2012 -->
+		<title>COP 1830 Project 6 - JavaScript Objects</title>
+		<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+		<style type='text/css'>
+		body {color:inherit; background-color:#cccccc;}	
+		h2, h3 {text-align:center;}
+		table {width:100%; border-style:groove; padding-top:0.25em; padding-bottom:0.25em;}
+		#header {padding:0.25em 2em;}
+		#td1 {font-weight:bold;}
+		#tdr {text-align:right;}
+		</style>
+		<script type='text/javascript'>
+		<!--
+		function divFontSize(divID, size) {
+			divID.style.fontSize=size;
+		}
+		function showHide(chkID, divID) {
+			if(chkID.checked === true) {
+				divID.style.display="block";
+			}
+			else { 
+				divID.style.display="none";
+			}
+		}
+		//-->
+		</script>
+	</head>
+	<body>
+		<h2>JavaScript Objects Project</h2>
+		<table id='header'>
+			<tr>
+				<td id='td1'>Show:</td><td><label><input type='checkbox' checked='checked' id='objchk' onchange='showHide(objchk, objectives)' />Objectives</label></td>
+				<td><label><input type='checkbox' checked='checked' id='detchk' onchange='showHide(detchk, details)' />Details</label></td>
+				<td><label><input type='checkbox' checked='checked' id='subchk' onchange='showHide(subchk, submission)' />Submission</label></td>
+			</tr>
+		</table>
+		<div id='objectives' onmouseover='divFontSize(objectives, "125%")' onmouseout='divFontSize(objectives, "100%")'>
+		<h3>OBJECTIVES</h3>
+		This project involves the use of event-driven behaviors written as JavaScript functions that will control the way in which the page is formatted and displayed</div>
+		<div id='details' onmouseover='divFontSize(details, "125%")' onmouseout='divFontSize(details, "100%")'>
+		<h3>DETAILS</h3>
+			<ol>
+				<li>Use a plain text editor such as the Windows Notepad program to create a web page named "project6.htm" that displays as closely matching this page as possible.</li>
+				<li>The heading at the top of the page should be a level 2 heading. The other three headings should be level 3.</li>
+				<li>Use embedded CSS rules to center both levels of heading and all other style definitions necessary to format the page. Assign a background color of #cccccc for the page.</li>
+				<li>The content under the the headings OBJECTIVES, DETAILS, and SUBMISSION should be created with division (div) elements that also include the headers.</li>
+				<li>One JavaScript function named "divFontSize" must be written to cause a "rollover behavior" for any of the three divisions, such that when a user moves a mouse over them they enlarge to a 25% larger font size and then return to their original size when the mouse moves away from them.</li>
+				<li>Each division must have two "event handler" attributes that will call the divFontSize function and pass the related parameters to it when the mouse: (1) hovers over the division, and (2) moves away from it.</li>
+				<li>Each division must have two "event handler" attributes that will call the "divFontSize" function and pass the related parameters to it when the mouse: (1) hovers over the division, and (2) moves away from it.</li>
+				<li>The checkboxes at the top of the page should be positioned within borderless cells in a one row table. The enclosing table element should be formatted with a "groove" style border. Each checkbox must be nested within a label element to ensure that click events on the label will also toggle each checkbox.</li>
+				<li>A second JavaScript function named "show Hide" must be written in the head section that can toggle that division's display on or off, based on the state of the related checkbox. All three divisions must display by default when the page loads.</li>
+				<li>Each checkbox must be given a unique id attribute to identify it to the showHide function. Name the input checkbox elements (in order of appearance): "objchk", "detchk", and "subchk".</li>
+				<li>Each checkbox also must have an "event handler" attnbute that will call the "showHide" function and pass the related two parameters to it.</li>
+				<li>For more details, see the assignment web page.</li>
+			</ol>
+		</div>
+		<div id='submission' onmouseover='divFontSize(submission, "125%")' onmouseout='divFontSize(submission, "100%")'>
+		<h3>SUBMISSION</h3>
+		Your script file (web page) should be submitted via the "Project 6" drop box under the "Lessons" tab of the Angel course shell for this course. After completing your web page, login to the Angel Server and click on the "Lessons" tab on the top of the screen. Select "Project 6" and type a title and any message you like in the textboxes. Then use the "Attachments" button to attach your script file to the submission message and press the Submit button.</div>
+		<hr />
+		<table>
+			<tr>
+				<td>Last revised: 11/14/2012</td>
+				<td id='tdr'>Email:<a href='standevenjw@mail.irsc.edu'>standevenjw@mail.irsc.edu</a></td>
+			</tr>
+		</table>
+	</body>
+</html>

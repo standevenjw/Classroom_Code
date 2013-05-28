@@ -1,0 +1,11 @@
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\HW10\TicTacToeSolution\TicTacToeProject\bin\Debug\TicTacToeProject.exe
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\HW10\TicTacToeSolution\TicTacToeProject\bin\Debug\TicTacToeProject.pdb
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\HW10\TicTacToeSolution\TicTacToeProject\bin\Debug\TicTacToeProject.xml
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\HW10\TicTacToeSolution\TicTacToeProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\HW10\TicTacToeSolution\TicTacToeProject\obj\x86\Debug\TicTacToeProject.MainForm.resources
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\HW10\TicTacToeSolution\TicTacToeProject\obj\x86\Debug\TicTacToeProject.Resources.resources
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\HW10\TicTacToeSolution\TicTacToeProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\HW10\TicTacToeSolution\TicTacToeProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\HW10\TicTacToeSolution\TicTacToeProject\obj\x86\Debug\TicTacToeProject.exe
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\HW10\TicTacToeSolution\TicTacToeProject\obj\x86\Debug\TicTacToeProject.xml
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\HW10\TicTacToeSolution\TicTacToeProject\obj\x86\Debug\TicTacToeProject.pdb

@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='en' lang='en'>
+	<head>
+		<!--
+		Filename: project7p2.htm
+		Authored by: James Standeven
+		Date: November 20, 2012 -->
+		<title>COP 1830 Project 7 - JavaScript Forms</title>
+		<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+		<style type='text/css'>
+		table {width:100%;}
+		#tdr {text-align:right;}
+		</style>
+		<script type='text/javascript'>
+			<!--
+			//Calculate and display the totalCost and monthlyPayment values
+			function calcCost(formData){
+				//read input
+				var PRICE = parseFloat(formData.stickerPrice.value);
+				var DOWN = parseFloat(formData.downPayment.value);
+				var RATE = parseFloat(formData.interestRate.value);
+				var TERM = parseInt(formData.termMonths.value, 10);
+				//calculate
+				var PRIN = PRICE - DOWN;
+				var INT = PRIN * (RATE/100) * (TERM/12);
+				var TCOST = PRICE + INT;
+				var MPAY = (PRIN + INT) / TERM;
+				
+				//write output
+				formData.totalCost.value = TCOST;
+				formData.monthlyPayment.value = MPAY;
+			}
+			
+			//Validate stickerPrice value
+			function checkPrice(formData) {
+				if(formData.stickerPrice.value === ""){/*empty statment*/} //required to prevent an endless loop
+				else if(formData.stickerPrice.value < 0 || formData.stickerPrice.value >= 100000) {
+					alert("The sticker price must be greater than or equal to $0 and less than $100,000"); 
+					formData.stickerPrice.select();
+				}
+			}
+			
+			//Validate downPayment value
+			function checkDown(formData) {
+				if(formData.downPayment.value === ""){/*empty statment*/} //required to prevent an endless loop
+				else if(formData.downPayment.value < 0 || formData.downPayment.value > parseInt(formData.stickerPrice.value, 10)) {
+					alert("The down payment must be greater than or equal to $0 and less than or equal to the price of the vehicle"); 
+					formData.downPayment.select(); 
+				}
+			}
+			
+			//Validate interestRate value
+			function checkRate(formData) {
+				if(formData.interestRate.value === ""){/*empty statment*/} //required to prevent an endless loop
+				else if(formData.interestRate.value < 0 || formData.interestRate.value > 25) {
+					alert("The interest rate must be greater than or equal to 0% and less than or equal to 25%"); 
+					formData.interestRate.select();
+				}
+			}
+			
+			//Validate termMonths value
+			function checkTerm(formData) {
+				if(formData.termMonths.value === ""){/*empty statment*/} //required to prevent an endless loop
+				else if(formData.termMonths.value < 0 || formData.termMonths.value > 72) {
+					alert("The term of the loan must be greater than or equal to 0 months and less than or equal to 72 months"); 
+					formData.termMonths.select();
+				}
+			}
+			//-->
+		</script>
+	</head>
+	<body>
+		<h1>Car Cost Calculator</h1>
+		<hr />
+		<p>This program will determine and display the overall cost of purchasing a car and the monthly payment required. Please enter the following data without commas, dollar signs or percent signs by filling in the four input text boxes below. Then click on the [Calculate] button. The answer will appear in the two textboxes at the bottom on the window. To calculate with different data, click the [Reset] button and start over.</p>
+		<form action=''>
+			<h2>INPUT AREA</h2>
+			<p>Sticker Price on the Car (in dollars): <input type='text' name='stickerPrice' onblur='checkPrice(this.form)' /></p>
+			<p>Down Payment (in dollars): <input type='text' name='downPayment' onblur='checkDown(this.form)' /></p>
+			<p>Annual Interest Rate of the Loan: % <input type='text' name='interestRate' size='5' onblur='checkRate(this.form)' /></p>
+			<p>Term of the Loan (in Months): <input type='text' name='termMonths' size='5' onblur='checkTerm(this.form)' /></p>
+			<input type='button' value='Calculate' onclick='calcCost(this.form)' />
+			<input type='reset' value='Reset' />
+			<h2>OUTPUT AREA</h2>
+			<p>The total cost for that car including interest would be $<input type='text' name='totalCost' /></p>
+			<p>The monthly payment would be $<input type='text' name='monthlyPayment' /></p>
+		</form>
+		<hr />
+		<table>
+			<tr>
+				<td>Last Revised: 11-27-2012</td>
+				<td id='tdr'>Email:<a href='mailto:standevenjw@mail.irsc.edu'>standevenjw@mail.irsc.edu</a></td>
+			</tr>
+		</table>
+	</body>
+</html>

@@ -1,0 +1,68 @@
+For this Assignment you will attach ONE file, your program (.cpp file).  You must attach your .cpp file in the dropbox, DO NOT cut and paste your code into the message section of the dropbox or your assignment will NOT be graded and you will receive a zero for the assignment.
+
+Problem:  Write a program that simulates the game connect four.  Each player tries to build a row of four playing pieces in the frame - horizontally, vertically, or diagonally - while trying to prevent his opponent from doing the same.
+
+Homework Assignment 2 - PART 1 - Write the Menu for the Game and read in the user's response.  Output a message to test each option in the menu. (See Constraints below)
+
+Object of the game:
+
+Be the first player to get four of your checkers in a row - horizontally, vertically or diagonally. 
+Rules
+
+    Choose who plays first.
+    Each player in his turn drops one of his checkers down any of the slots in the top of the grid.
+    The play alternates until one of the players gets four checkers of his colour in a row. The four in a row can be horizontal, vertical, or diagonal.(See examples).
+    The first player to get four in a row wins.
+    If the board is filled with pieces and neither player has 4 in a row, then the game is a draw.
+
+
+Connect Four
+
+ 
+
+Constraints:
+
+    The menu must have the following options:
+    1. Play Game
+    2. View Instructions
+    3. Exit
+    Read in the user's choice as an integer.
+    Use a switch statement to test menu option.
+    Use a loop to allow the user to choose different options until he/she wishes to exit.
+    For option 1, display the text "Let's Play a Game!!!", then ask for each player's name (there should be two players) and store them respectively in a string variable named:  playerName1 and playerName2.  Next welcome our players to the game.
+
+    Sample Output:
+
+    Let's Play a Game!!!
+    Player 1 please enter your first name:
+    > Aaron
+    Player 2 please enter your first name:
+    > Thomas
+
+    Welcome Aaron and Thomas!
+     
+    For option 2, develop a set of instructions describing the game play.
+    Output must be formatted professionally. Clear the screen after a menu option is chosen.
+
+Objects:
+
+    Review Input/Output
+    Review the switch selection structure
+    Review Looping
+
+ 
+
+WRITE THE PROGRAM:  Write the program for Part 1 of the Problem.
+
+CHECK THE PROGRAM:
+
+    Does the program meet the Constraints stated above?
+    Is the program displaying the output properly?
+
+ 
+
+SUBMISSION INSTRUCTIONS:  Submit your file as one attachment using the assignment drop box tools listed under the Lessons Tab (not the email system) in the [Online Angel Server]. Use the "Attachments" button on the drop box screen on the assignment page to submit your assignment.   
+
+Any Assignments that are emailed will not be graded and will receive a zero.
+
+Instructions: Enter or paste your written work and/or click "Attachments" to upload your files. 

@@ -1,0 +1,15 @@
+/*Filename: project2style.css
+ *Authored by: James Standeven
+ *Date: September 13, 2012*/
+ 
+ body {margin:0px; font-family:Georgia, serif;}
+ /**/
+ 
+ 
+ /*Classes*/
+ .container {margin:0px;}
+ .main {padding-left:2em; padding-right:2em;}
+ .header,.footer {text-align:center; padding:0.5em;}
+ .indent2 {text-indent:2em;}
+ .noborder {border:0px;}
+ .wide {width:100%;}
