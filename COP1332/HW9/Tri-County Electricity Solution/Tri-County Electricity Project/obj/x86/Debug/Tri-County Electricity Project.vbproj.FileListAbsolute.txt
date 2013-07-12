@@ -1,0 +1,11 @@
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\HW9\Tri-County Electricity Solution\Tri-County Electricity Project\bin\Debug\Tri-County Electricity Project.exe
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\HW9\Tri-County Electricity Solution\Tri-County Electricity Project\bin\Debug\Tri-County Electricity Project.pdb
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\HW9\Tri-County Electricity Solution\Tri-County Electricity Project\bin\Debug\Tri-County Electricity Project.xml
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\HW9\Tri-County Electricity Solution\Tri-County Electricity Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\HW9\Tri-County Electricity Solution\Tri-County Electricity Project\obj\x86\Debug\Tri_County_Electricity_Project.MainForm.resources
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\HW9\Tri-County Electricity Solution\Tri-County Electricity Project\obj\x86\Debug\Tri_County_Electricity_Project.Resources.resources
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\HW9\Tri-County Electricity Solution\Tri-County Electricity Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\HW9\Tri-County Electricity Solution\Tri-County Electricity Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\HW9\Tri-County Electricity Solution\Tri-County Electricity Project\obj\x86\Debug\Tri-County Electricity Project.exe
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\HW9\Tri-County Electricity Solution\Tri-County Electricity Project\obj\x86\Debug\Tri-County Electricity Project.xml
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\HW9\Tri-County Electricity Solution\Tri-County Electricity Project\obj\x86\Debug\Tri-County Electricity Project.pdb

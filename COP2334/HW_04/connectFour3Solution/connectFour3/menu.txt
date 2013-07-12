@@ -1,0 +1,4 @@
+1. Play Game
+2. View Instructions
+3. See Highscores
+4. Exit 

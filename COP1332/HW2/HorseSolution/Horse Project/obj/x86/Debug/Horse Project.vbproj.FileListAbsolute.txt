@@ -1,0 +1,14 @@
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\StudentDataFilesVB2010\VbReloaded2010\Chap01\Horse Solution\Horse Project\bin\Debug\Horse Project.exe
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\StudentDataFilesVB2010\VbReloaded2010\Chap01\Horse Solution\Horse Project\bin\Debug\Horse Project.pdb
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\StudentDataFilesVB2010\VbReloaded2010\Chap01\Horse Solution\Horse Project\bin\Debug\Horse Project.xml
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\StudentDataFilesVB2010\VbReloaded2010\Chap01\Horse Solution\Horse Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\StudentDataFilesVB2010\VbReloaded2010\Chap01\Horse Solution\Horse Project\obj\x86\Debug\Horse_Project.MainForm.resources
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\StudentDataFilesVB2010\VbReloaded2010\Chap01\Horse Solution\Horse Project\obj\x86\Debug\Horse_Project.Resources.resources
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\StudentDataFilesVB2010\VbReloaded2010\Chap01\Horse Solution\Horse Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\StudentDataFilesVB2010\VbReloaded2010\Chap01\Horse Solution\Horse Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\StudentDataFilesVB2010\VbReloaded2010\Chap01\Horse Solution\Horse Project\obj\x86\Debug\Horse Project.exe
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\StudentDataFilesVB2010\VbReloaded2010\Chap01\Horse Solution\Horse Project\obj\x86\Debug\Horse Project.xml
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\StudentDataFilesVB2010\VbReloaded2010\Chap01\Horse Solution\Horse Project\obj\x86\Debug\Horse Project.pdb
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\StudentDataFilesVB2010\VbReloaded2010\Chap01\HorseSolution\Horse Project\obj\x86\Debug\Horse Project.exe
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\StudentDataFilesVB2010\VbReloaded2010\Chap01\HorseSolution\Horse Project\obj\x86\Debug\Horse Project.xml
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\StudentDataFilesVB2010\VbReloaded2010\Chap01\HorseSolution\Horse Project\obj\x86\Debug\Horse Project.pdb

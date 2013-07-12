@@ -1,0 +1,11 @@
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\StudentDataFilesVB2010\VbReloaded2010\Chap03\TileLimitedSolution\TileLimitedProject\bin\Debug\TileLimitedProject.exe
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\StudentDataFilesVB2010\VbReloaded2010\Chap03\TileLimitedSolution\TileLimitedProject\bin\Debug\TileLimitedProject.pdb
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\StudentDataFilesVB2010\VbReloaded2010\Chap03\TileLimitedSolution\TileLimitedProject\bin\Debug\TileLimitedProject.xml
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\StudentDataFilesVB2010\VbReloaded2010\Chap03\TileLimitedSolution\TileLimitedProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\StudentDataFilesVB2010\VbReloaded2010\Chap03\TileLimitedSolution\TileLimitedProject\obj\x86\Debug\TileLimitedProject.MainForm.resources
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\StudentDataFilesVB2010\VbReloaded2010\Chap03\TileLimitedSolution\TileLimitedProject\obj\x86\Debug\TileLimitedProject.Resources.resources
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\StudentDataFilesVB2010\VbReloaded2010\Chap03\TileLimitedSolution\TileLimitedProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\StudentDataFilesVB2010\VbReloaded2010\Chap03\TileLimitedSolution\TileLimitedProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\StudentDataFilesVB2010\VbReloaded2010\Chap03\TileLimitedSolution\TileLimitedProject\obj\x86\Debug\TileLimitedProject.exe
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\StudentDataFilesVB2010\VbReloaded2010\Chap03\TileLimitedSolution\TileLimitedProject\obj\x86\Debug\TileLimitedProject.xml
+C:\Users\JamesInternet\JAMES_IRSC_SPRING_2012\COP1332\StudentDataFilesVB2010\VbReloaded2010\Chap03\TileLimitedSolution\TileLimitedProject\obj\x86\Debug\TileLimitedProject.pdb

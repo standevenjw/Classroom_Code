@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN'
+ 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='en' lang='en'>
+	<head>
+		<!--
+		Filename: project4.htm
+		Authored by: James Standeven
+		Date: October 17, 2012 -->
+		<title>COP 1830 Project 4 - JavaScript</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<script type='text/javascript'>
+			//get strings from prompt dialog boxes
+			var firstString=prompt("Enter the first number", "0");
+			var secondString=prompt("Enter the second number","0");
+			//convert strings to floats
+			var first=parseFloat(firstString);
+			var second=parseFloat(secondString);
+			//get the sum of the two floats
+			var sum=first+second;
+			//get the difference of the two floats
+			var diff=first-second;
+			//get the product of the two floats
+			var product=first*second;
+			//get the quotient of the two floats
+			var quotient=first/second;
+			//CDATA is needed to validate the angle brackets.
+			//<![CDATA[
+			//add title to html
+			document.write("<h3>COP 1830 Project Output</h3>");
+			//show the numbers entered in
+			document.write("<p>First Value Entered: "+firstString+"<br />Second Value Entered: "+secondString+"</p>");
+			//show all calculated values
+			document.write("<p>Sum: "+sum+"<br />Difference: "+diff+"<br />Product: "+product+"<br />Quotient: "+quotient+"</p>");
+			//]]>
+		</script>
+	</head>
+	<body>
+		<p>Click Refresh(or Reload) to run the script again.</p>
+	</body>
+</html>
